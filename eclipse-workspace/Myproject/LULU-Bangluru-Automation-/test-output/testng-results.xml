@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-29T13:10:45 IST" name="Default suite" finished-at="2026-09-29T13:11:16 IST" duration-ms="30805">
+    <groups>
+    </groups>
+    <test started-at="2026-09-29T13:10:45 IST" name="Default test" finished-at="2026-09-29T13:11:16 IST" duration-ms="30805">
+      <class name="Home.Socialmedia">
+        <test-method is-config="true" signature="navigator()[pri:0, instance:Home.Socialmedia@3590fc5b]" started-at="2026-09-29T13:10:45 IST" name="navigator" finished-at="2026-09-29T13:10:56 IST" duration-ms="10784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigator -->
+        <test-method signature="facebook()[pri:1, instance:Home.Socialmedia@3590fc5b]" started-at="2026-09-29T13:10:56 IST" name="facebook" description="Facebook clicking" finished-at="2026-09-29T13:10:59 IST" duration-ms="3390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Home.Socialmedia@3590fc5b]" started-at="2026-09-29T13:10:59 IST" name="close" finished-at="2026-09-29T13:11:00 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="navigator()[pri:0, instance:Home.Socialmedia@3590fc5b]" started-at="2026-09-29T13:11:00 IST" name="navigator" finished-at="2026-09-29T13:11:07 IST" duration-ms="7512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigator -->
+        <test-method signature="insta()[pri:2, instance:Home.Socialmedia@3590fc5b]" started-at="2026-09-29T13:11:07 IST" name="insta" description="Instagram clicking" finished-at="2026-09-29T13:11:16 IST" duration-ms="8436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insta -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Home.Socialmedia@3590fc5b]" started-at="2026-09-29T13:11:16 IST" name="close" finished-at="2026-09-29T13:11:16 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Home.Socialmedia -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
